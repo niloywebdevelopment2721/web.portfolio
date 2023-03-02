@@ -1,0 +1,89 @@
+body{
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     margin-left:0;
+}
+
+h1{
+   font-size:50px;
+
+}
+.text-highlight{
+      color:orange;
+
+}
+.half-width{
+     width:40%;
+     float:left;
+    margin-left:5%;
+    padding-left: 2%;
+    
+
+}
+.half-width img{
+         width:100%;
+
+
+} 
+.top-banner{
+          background-image:url(images/top-banner.png);
+          background-repeat:no-repeat;
+          background-position:left;
+}
+section{
+     height:500px;
+     
+     
+}
+.link-button{
+          text-decoration: none;
+          background-image: linear-gradient( 180deg,lightSalmon,tomato);
+          padding:10px 20px ;
+          border-radius: 10px;
+          color:white;
+          font-weight: 700;
+}
+h2{
+     font-size: 40px;
+}
+.dream-area{
+          background-image: url(images/dream-bg.png);
+          background-repeat: no-repeat;
+          background-position: right;
+          
+}
+.images-size{
+     width: 35%;
+}
+
+
+.experinces-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position:left;
+
+}
+.single-experience{
+          box-shadow: 10px 10px 40px gray;
+          border-radius: 10px;
+           height:60%;
+           background-color:white;
+}
+#full-stack{
+       border-left: 7px solid;
+       border-image: linear-gradient(180deg,rgb(235, 174, 7),rgb(233, 8, 8));
+       border-image-slice: 1;
+
+}
+#baby-web{
+       border-left: 7px solid;
+       border-image: linear-gradient(180deg,rgb(55, 55, 206),#79c2e4);
+       border-image-slice: 1;
+
+}
+footer p{
+     text-align:center;
+     font-size: 12px;
+}
+.single-experience h3{
+     font-size: 25px;
+}
